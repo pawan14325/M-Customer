@@ -1,4 +1,3 @@
-import 'package:get/get.dart';
 import 'package:m_customer/routes/app_routes.dart';
 
 class AppPages{
